@@ -1,7 +1,7 @@
 require("dotenv").config();
 var qs = require("querystring");
 var http = require("https");
-let phoneNumbers = require("./phoneNumbers")
+const { phoneNumbers } = require("./phoneNumbers")
 
 var options = {
   "method": "POST",

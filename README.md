@@ -1,4 +1,4 @@
-# maquina-spameadora
+# Maquina-spameadora
 
 Su uso es bien simple.
 
